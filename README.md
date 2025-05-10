@@ -2,9 +2,11 @@
 [![smithery badge](https://smithery.ai/badge/holaspirit-mcp-server)](https://smithery.ai/server/holaspirit-mcp-server)
 [![npm version](https://badge.fury.io/js/holaspirit-mcp-server.svg)](https://badge.fury.io/js/holaspirit-mcp-server)
 
-A [MCP(Model Context Protocol)](https://www.anthropic.com/news/model-context-protocol) server that accesses to [Holaspirit API](https://www.holaspirit.com/).
+A [MCP (Model Context Protocol)](https://www.anthropic.com/news/model-context-protocol) server that accesses to [Holaspirit API](https://www.holaspirit.com/).
 
 This server provides MCP-compatible access to Holaspirit's API, allowing AI assistants to interact with your Holaspirit data through a standardized interface.
+
+> ✅ **Note:** This project is a heavily reworked and extended version of [syucream/holaspirit-mcp-server](https://github.com/syucream/holaspirit-mcp-server), originally licensed under the MIT License.
 
 <a href="https://glama.ai/mcp/servers/7tn35lri9w"><img width="380" height="200" src="https://glama.ai/mcp/servers/7tn35lri9w/badge" alt="Holaspirit Server MCP server" /></a>
 
