@@ -2,7 +2,7 @@
 
 import { StdioServerTransport } from '@modelcontextprotocol/sdk/server/stdio.js';
 import { createMcpServer } from './server.ts';
-import { createHolaspiritClientFromEnv } from './config/holaspiritClient.ts';
+import { createHolaspiritClientFromEnv } from './config/HolaspiritClient.ts';
 import { Tools } from './tools/Tools.ts';
 
 /**

@@ -2,7 +2,7 @@ import { z } from 'zod';
 import { CallToolRequestSchema } from '@modelcontextprotocol/sdk/types.js';
 import * as schemas from '../schemas.ts';
 import { formatToolResponse, parsePaginatedHolaspiritResponse } from './common.ts';
-import type { HolaspiritClient } from '../config/holaspiritClient.ts';
+import type { HolaspiritClient } from '../config/HolaspiritClient.ts';
 import type { ToolModule } from './ToolBase.ts';
 
 /**

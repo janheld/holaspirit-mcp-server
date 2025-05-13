@@ -1,4 +1,4 @@
-import type { HolaspiritClient } from '../config/holaspiritClient.ts';
+import type { HolaspiritClient } from '../config/HolaspiritClient.ts';
 import * as schemas from '../schemas.ts';
 import { formatToolResponse, parseSingleHolaspiritResponse } from './common.ts'; // Import der gemeinsamen Hilfsfunktionen
 import { z } from 'zod';
